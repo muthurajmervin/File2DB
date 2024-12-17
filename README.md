@@ -19,3 +19,8 @@ This project allows users to upload CSV or RDS files and insert the data into a 
    ```bash
    git clone https://github.com/muthurajmervin/File2DB.git
 
+
+## Usage
+
+You can try the live version of the application here:
+
